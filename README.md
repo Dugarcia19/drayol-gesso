@@ -1,0 +1,13 @@
+# Drayol Gesso - Site Estático
+
+Este projeto contém um site estático simples para a Drayol Gesso, com contato por WhatsApp.
+
+## Como usar
+
+1. Abra `index.html` no navegador.
+2. Para publicar online, envie os arquivos para um serviço de hospedagem estática, como GitHub Pages, Netlify ou Vercel.
+
+## Links de contato
+
+- https://wa.me/5543999378092
+- https://wa.me/5541992296947

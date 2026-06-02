@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420">
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#1a3c65" />
+      <stop offset="100%" stop-color="#f6c14b" />
+    </linearGradient>
+  </defs>
+  <rect width="640" height="420" rx="32" fill="url(#bg)" />
+  <path d="M110 310h420v40a20 20 0 0 1-20 20H130a20 20 0 0 1-20-20v-40Z" fill="#12233f" opacity="0.9" />
+  <path d="M140 270h360v-160H140Z" fill="#fff" opacity="0.95" />
+  <path d="M140 170h360v-40H140Z" fill="#1a3c65" />
+  <path d="M180 210h280v16H180z" fill="#f6c14b" />
+  <path d="M180 243h200v16H180z" fill="#d7dce8" />
+  <circle cx="220" cy="135" r="28" fill="#1a3c65" />
+  <path d="M420 145h90v8h-90z" fill="#f6c14b" />
+  <path d="M180 290h280v16H180z" fill="#d7dce8" />
+  <text x="46%" y="385" text-anchor="middle" font-family="Inter, sans-serif" font-size="30" fill="white">Gesso &amp; Drywall</text>
+</svg>
