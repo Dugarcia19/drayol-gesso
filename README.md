@@ -1,6 +1,6 @@
-# Drayol Gesso - Site Estático
+# Gesso Drywall do Gordinho - Site Estático
 
-Este projeto contém um site estático simples para a Drayol Gesso, com contato por WhatsApp.
+Este projeto contém um site estático simples para Gesso Drywall do Gordinho, com contato por WhatsApp.
 
 ## Como usar
 
