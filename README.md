@@ -6,7 +6,10 @@ Este projeto contém um site estático simples para a Drayol Gesso, com contato 
 
 1. Abra `index.html` no navegador.
 2. Para publicar online, envie os arquivos para um serviço de hospedagem estática, como GitHub Pages, Netlify ou Vercel.
+## Sites publicados
 
+- GitHub Pages: https://dugarcia19.github.io/drayol-gesso/
+- Netlify: https://drayol-gesso.netlify.app
 ## Links de contato
 
 - https://wa.me/5543999378092
